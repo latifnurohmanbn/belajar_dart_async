@@ -1,0 +1,19 @@
+name: belajar_dart_unit_test
+description: A simple command-line application.
+version: 1.0.0
+# homepage: https://www.example.com
+
+environment:
+  sdk: ">=2.18.5 <3.0.0"
+
+# dependencies:
+#   path: ^1.8.0
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.21.4
+  mockito: ^5.3.2
+  build_runner: ^2.3.2
+  flutter_lints: ^2.0.1
+dependencies:
+  async: ^2.10.0
